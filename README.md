@@ -3,7 +3,7 @@
 WIP timetable scraper for DCU. Written in Python 3.
 
 
-# TODO:
+## TODO:
 
 Structure text data parsed from HTML file.
 
