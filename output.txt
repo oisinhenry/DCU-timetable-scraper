@@ -1,472 +1,489 @@
- Seminar  Practical  Tutorial  Lecture  
-  
-Full Week  Monday  Tuesday  Wednesday  Thursday  Friday  Saturday 
-Sunday   
-     
-  
-  CASE2Draft Programme Timetable  Total Hours: 328  
-  
-     
-  
- 8:00  
-  
-8:30  9:00  9:30  10:00  10:30  11:00  11:30  12:00  12:30  13:00 
-13:30  14:00  14:30  15:00  15:30  16:00  16:30  17:00  17:30  Mon 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.QG15  
-  
- Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L3 <7>  7  
-  
-Lec.   GLA.HG23  
-  
-Sinclair D  LOGIC  
-  
-CA208[1]L1  1-12  
-  
-Prac.   GLA.L125, GLA.L101  
-  
-Sinclair D  LOGIC  
-  
-CA208[1]P1  1-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.QG15  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L1 <5>  5  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG23  
-  
-Daly C  Computer Programming 3 (Data Structure and Algorithms)  
-  
-CA268(1) L1  1-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.QG13  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L1 <1-4, 6-12>  1-4, 6-12  
-  
-Lec.   GLA.HG23  
-  
- Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L2 <2-4, 6-12>  2-4, 6-12  
-  
-emptySlot
- 
-emptySlot
-  
-Tue  emptySlot
- 
-emptySlot
-  Prac.   GLA.LG25, GLA.LG26,
-GLA.L125  
-  
-Daly C  Computer Programming 3 (Data Structure and Algorithms)  
-  
-CA268(1)P1  1-12  
-  
-Lec.   GLA.SA301  
-  
-Verbruggen R  Systems Analysis  
-  
-CA214/228[1]L2  1-12  
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.CG12  
-  
-Roantree M  Intro to Databases  
-  
-CA119/CA218[1]L2/01  1-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.CG12  
-  
-Roantree M   
-  
-CA119/CA218[1]L1/01  1-12  
-  
-emptySlot
- 
-emptySlot
-  
-Wed  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Thu  emptySlot
- 
-emptySlot
-  Lec.   GLA.CG12  
-  
-Daly C  Computer Programming 3 (Data Structure and Algorithms)  
-  
-CA268(1)L2  1-12  
-  
-Lec.   GLA.CG12  
-  
-Sinclair D  LOGIC  
-  
-CA208[1]L2  1-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG23  
-  
-Verbruggen R  Systems Analysis  
-  
-CA214/228[1]L1  1-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Prac.   GLA.LG25, GLA.LG26,
-GLA.LG27  
-  
-Roantree M  Intro to databases  
-  
-CA119/CA218[1]P1/01  1-12  
-  
-Fri  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.SA105  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L6z  1  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.SA301  
-  
- Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L2 <5>  5  
-  
-Lec.   GLA.XG19  
-  
- Computer Architecture & Assembly Level Programming  
-  
-CA296[1]L3 <2-6, 8-12>  2-6, 8-12  
-  
-Prac.   GLA.L114, GLA.L101  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1P3z  8  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Prac.   GLA.LG25, GLA.LG26,
-GLA.LG27  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1]P1 <6-7, 9-12>  6-7, 9-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Prac.   GLA.L101, GLA.L128  
-  
-Fitzpatrick D  Computer Architecture & Assembly Level Programming  
-  
-CA296[1]P1 <2-5>  2-5  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Sat  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Sun  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-     
-  
- Page No. -1 Printed: 30 Nov 2018  
-  
-     
-  
-Full Week  Monday  Tuesday  Wednesday  Thursday  Friday  Saturday 
-Sunday   
 
+
+Mon 
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG15
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+7
+
+Lec.
+
+GLA.HG23
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+Prac.
+
+GLA.L125,GLA.L101
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG15
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+5
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.HG23
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1) L1
+
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG13
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+1-4,6-12
+
+Lec.
+
+GLA.HG23
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-4,6-12
+
+emptySlot
+
+emptySlot
+
+Tue
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.L125
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1)P1
+
+1-12
+
+Lec.
+
+GLA.SA301
+
+Verbruggen R
+
+Systems Analysis
+
+CA214/228
+1-12
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Roantree M
+
+Intro to Databases
+
+CA119/CA218
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Roantree M
+
+CA119/CA218
+1-12
+
+emptySlot
+
+emptySlot
+
+Wed
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Thu
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1)L2
+
+1-12
+
+Lec.
+
+GLA.CG12
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.HG23
+
+Verbruggen R
+
+Systems Analysis
+
+CA214/228
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.LG27
+
+Roantree M
+
+Intro to databases
+
+CA119/CA218
+1-12
+
+Fri
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.SA105
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+1
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.SA301
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+5
+
+Lec.
+
+GLA.XG19
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-6,8-12
+
+Prac.
+
+GLA.L114,GLA.L101
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+8
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.LG27
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+6-7,9-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.L101,GLA.L128
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-5
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
 
 

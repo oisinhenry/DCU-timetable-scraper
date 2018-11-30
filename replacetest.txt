@@ -1,538 +1,489 @@
- Seminar  Practical  Tutorial  Lecture  
-  
-Full Week  Monday  Tuesday  Wednesday  Thursday  Friday  Saturday 
-Sunday   
-     
-  
-  GCB2Draft Programme Timetable  Total Hours: 244  
-  
-     
-  
- 8:00  
-  
-8:30  9:00  9:30  10:00  10:30  11:00  11:30  12:00  12:30  13:00 
-13:30  14:00  14:30  15:00  15:30  16:00  16:30  17:00  17:30  Mon 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.QG13  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L2/01  1-12  
-  
-Lec.   GLA.CG86  
-  
-Cahill Paul  Cell Structure and Function  
-  
-BE230[1]L1/01  1-3, 7-9  
-  
-emptySlot
- 
-emptySlot
-  Prac.   GLA.S144, GLA.S143  
-  
-Downing T   Statistics  
-  
-BE205[1] P1/01 <7>  7  
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.XG20  
-  
-Cummins P  Cell Biology  
-  
-BE226[1]L2/01  1-6  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.C114  
-  
-Loscher C  Cell Structure and Function  
-  
-BE230[1]L2/01  4-6, 10, 12  
-  
- Workshop  GLA.XG16  
-  
-Downing T   
-  
-GCB2 Meeting  1  
-  
-Prac.   GLA.S143, GLA.S144  
-  
-Downing T   Statistics  
-  
-BE205[1] P1/01 <1-5, 8-12>  1-5, 8-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.XG20  
-  
-O'Neill S  Cell Biology  
-  
-BE226[1]L2a/01  7-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Tue  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Prac.   GLA.XG51A/B  
-  
-Fagan C  Practical Biochemistry Labs  
-  
-BE261[1]P1 GCB  2-12  
-  
-emptySlot
- 
-emptySlot
-  
-Wed  emptySlot
- 
-emptySlot
-  Sem.   GLA.Q120  
-  
-Morrison J  Practical Biochemistry Labs  
-  
-BE261[1Intro/01  1  
-  
-Lec.   GLA.X130  
-  
-Cummins P  Scientific Literature  
-  
-BE257[1]L1/01  2  
-  
-Lec.   GLA.C115  
-  
-Cahill Paul  Cell Structure and Function  
-  
-BE230[1]L1/03  1-3, 7-9  
-  
-Lec.   GLA.SA105  
-  
-Loscher C  Cell Structure and Function  
-  
-BE230[1]L2/03  4-6, 10, 12  
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG22  
-  
-O'Malley P  ORGANIC CHEMISTRY  
-  
-CS204[1]L2a/01  7-12  
-  
-Lec.   GLA.HG22  
-  
-O'Malley P  ORGANIC CHEMISTRY  
-  
-CS204[1]L1a/01  7-12  
-  
-Lec.   GLA.XG21  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L1/01a  7-12  
-  
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Tut.   GLA.SAG08  
-  
-Downing T   Statistics  
-  
-BE205[1] T1/01  1-12  
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG22  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L1/01a <1-2, 4-6>  1-2, 4-6  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Thu  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.Q119  
-  
-Loscher C  Cell Structure and Function  
-  
-BE230[1]L2/02  4-6, 10, 12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.SA106  
-  
-Downing T   Statistics  
-  
-BE205[1] L1/01  1-12  
-  
-Lec.   GLA.Q119  
-  
-Cahill Paul  Cell Structure and Function  
-  
-BE230[1]L1/02  1-3, 7-9  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.XG22  
-  
-Kerrigan N  ORGANIC CHEMISTRY  
-  
-CS204[1]L2/01 <1-2, 4-6>  1-2, 4-6  
-  
-Lec.   GLA.XG22  
-  
-Kerrigan N  ORGANIC CHEMISTRY  
-  
-CS204[1]L1/01 <1-2, 4-6>  1-2, 4-6  
-  
-Lec.   GLA.HG22  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L3/01 <1-2, 4-12>  1-2, 4-12  
-  
-Fri  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.Q121  
-  
-O'Neill S  Cell Biology  
-  
-BE226[1]L1a/01  7-12  
-  
-Lec.   GLA.Q121  
-  
-Cummins P  Cell Biology  
-  
-BE226[1]L1/01  1-6  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG23  
-  
-O'Malley P  ORGANIC CHEMISTRY  
-  
-CS204[1]L3a/01  7-12  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG22  
-  
-Kerrigan N  ORGANIC CHEMISTRY  
-  
-CS204[1]L3/01  1-6  
-  
-Lec.   GLA.XG21  
-  
-Kerrigan N  ORGANIC CHEMISTRY  
-  
-CS204[1]L2/01 <3>  3  
-  
-emptySlot
- 
-emptySlot
-  Lec.   GLA.HG22  
-  
-Kerrigan N  ORGANIC CHEMISTRY  
-  
-CS204[1]L1/01 <3>  3  
-  
-Lec.   GLA.HG22  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L1/01a <3>  3  
-  
-Lec.   GLA.HG22  
-  
-Cummins P  Biomolecules & Metabolism  
-  
-BE201[1]L3/01 <3>  3  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  Lec.    
-  
-Cummins P  Training Room 1 (Ground Floor)  
-  
-BE257[1]Library  4  
-  
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Sat  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-Sun  emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
- 
-emptySlot
-  
-     
-  
- Page No. -1 Printed: 30 Nov 2018  
-  
-     
-  
-Full Week  Monday  Tuesday  Wednesday  Thursday  Friday  Saturday 
-Sunday   
 
 
+Mon 
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG15
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+7
+
+Lec.
+
+GLA.HG23
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+Prac.
+
+GLA.L125,GLA.L101
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG15
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+5
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.HG23
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1) L1
+
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.QG13
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+1-4,6-12
+
+Lec.
+
+GLA.HG23
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-4,6-12
+
+emptySlot
+
+emptySlot
+
+Tue
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.L125
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1)P1
+
+1-12
+
+Lec.
+
+GLA.SA301
+
+Verbruggen R
+
+Systems Analysis
+
+CA214/228
+1-12
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Roantree M
+
+Intro to Databases
+
+CA119/CA218
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Roantree M
+
+CA119/CA218
+1-12
+
+emptySlot
+
+emptySlot
+
+Wed
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Thu
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.CG12
+
+Daly C
+
+Computer Programming 3 (Data Structure and Algorithms)
+
+CA268(1)L2
+
+1-12
+
+Lec.
+
+GLA.CG12
+
+Sinclair D
+
+LOGIC
+
+CA208
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.HG23
+
+Verbruggen R
+
+Systems Analysis
+
+CA214/228
+1-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.LG27
+
+Roantree M
+
+Intro to databases
+
+CA119/CA218
+1-12
+
+Fri
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.SA105
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+1
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Lec.
+
+GLA.SA301
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+5
+
+Lec.
+
+GLA.XG19
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-6,8-12
+
+Prac.
+
+GLA.L114,GLA.L101
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+8
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.LG25,GLA.LG26GLA.LG27
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+6-7,9-12
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+Prac.
+
+GLA.L101,GLA.L128
+
+Fitzpatrick D
+
+Computer Architecture & Assembly Level Programming
+
+CA296
+2-5
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
+
+emptySlot
 
 

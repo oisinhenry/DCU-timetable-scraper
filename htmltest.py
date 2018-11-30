@@ -1,9 +1,10 @@
 import html2text
-# import urllib.request
 import urllib3
 import requests
 import ssl
+import re
 from bs4 import BeautifulSoup
+from cleaner import cleanup
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def url_assembler():
@@ -26,13 +27,10 @@ def timetable_getter(url):
 
 
 def main():
-    # print_from_url()
     url_assembler()
 
+
 def print_from_url(code="CASE", year="2", sem="2"):
-    # ctx = ssl.create_default_context()
-    # ctx.check_hostname = False
-    # ctx.verify_mode = ssl.CERT_NONE
     text_maker = html2text.HTML2Text()
     text_maker.ignore_links = True
     text_maker.bypass_tables = False
@@ -47,31 +45,8 @@ def print_from_url(code="CASE", year="2", sem="2"):
     html = requests.get(url, verify=False)
     html = BeautifulSoup(html.content, 'html.parser')
     html = str(html)
-    # html = html.read()
     text = text_maker.handle(html)
     text = cleanup(text)
-    print(text)
-    print_to_file(text)
-
-
-def cleanup(s):
-    s = s.replace("|", "")
-    s = s.replace("---", "")
-    s = s.replace("![]", "")
-    s = s.replace("(http://www.dcu.ie/images/space.gif)", "emptySlot\n")
-    return s
-
-
-
-
-
-def print_from_file():
-    text_maker = html2text.HTML2Text()
-    text_maker.ignore_links = True
-    text_maker.bypass_tables = False
-    html = open("timetable.html")
-    html = html.read()
-    text = text_maker.handle(html)
     print(text)
     print_to_file(text)
 
