@@ -1,4 +1,7 @@
 import re
+# this function is a bit quick and dirty but it gets the job done for a first
+# pass on beautifying our data.
+# TODO: make more efficient? maybe not neccessary.
 def cleanup(s):
     s = s.replace("|", "")
     s = s.replace("---", "")
@@ -12,6 +15,6 @@ def cleanup(s):
     s = s.replace("  ", "\n")
     s = s.replace("   ", "\n")
     s = s.replace("\n ", "\n")
-    s = re.sub(r"\n+", "\n\n", s)
+    s = re.sub(r"\n+", "\n\n", s) # double newline is purely for readability by humans
     s = re.sub(r"\[(.*?)\n", "", s)
     return s
