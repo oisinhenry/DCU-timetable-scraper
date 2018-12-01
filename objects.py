@@ -16,7 +16,7 @@ class Timeslot(object):
         # if self.slot_type == "empty":
         #     return None
 
-        return "-----\nClass type: {}\nDay: {}\nLocation: {}\nModule: {}\nWeeks: {}\n-----".format(self.slot_type, self.day, self.location, self.module_name, self.weeks)
+        return "-----\nClass type: {}\nDay: {}\nLocation: {}\nModule: {}\nWeeks: {}".format(self.slot_type, self.day, self.location, self.module_name, self.weeks)
 
 
 # TODO: do away with slot_type "empty" and just use None objects for empty slots. Timeslot objects will always be populated this way

@@ -18,3 +18,5 @@ def cleanup(s):
     s = re.sub(r"\n+", "\n\n", s) # double newline is purely for readability by humans
     s = re.sub(r"\[(.*?)\n", "", s)
     return s
+
+# TODO: normalise the newlines between each element (!!!)

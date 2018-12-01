@@ -1,7 +1,7 @@
 from dtsparser import make_lists, process_day
 import objects
 
-with open("output.txt", "r") as f1:
+with open("output2.txt", "r") as f1:
     s = f1.read()
 
 day = make_lists(s)
