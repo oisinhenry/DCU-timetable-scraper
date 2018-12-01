@@ -5,7 +5,8 @@ import ssl
 import re
 from bs4 import BeautifulSoup
 from cleaner import cleanup
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+from objects import Timeslot
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning) # filed under "don't do this"
 
 # this function basically exists for testing purposes right now. whenever we start exporting
 # to standard calendar formats it'll probably be changed to command line params
