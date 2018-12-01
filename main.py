@@ -6,7 +6,6 @@ import re
 from bs4 import BeautifulSoup
 from cleaner import cleanup
 from objects import Timeslot
-from dtsparser import make_lists
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning) # filed under "don't do this"
 
 # this function basically exists for testing purposes right now. whenever we start exporting
@@ -51,7 +50,6 @@ def print_from_url(code="CASE", year="2", sem="2"): # url assembler. this will e
     text = cleanup(text)
     print(text)
     print_to_file(text)
-
 
 
 def print_to_file(s): # this isn't really used except for testing
