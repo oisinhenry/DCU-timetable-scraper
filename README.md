@@ -28,3 +28,16 @@ I probably won't do this. The print method is already implemented and querying i
 Output to some (standardized) format readable by humans (not just python command line).
 
 Package as a web app (React?) and implement Google/Apple calendar export functionality.
+
+
+## Dependencies
+
+[HTML2Text](https://pypi.org/project/html2text/)
+
+[BeautifulSoup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+```
+pip install html2text
+
+pip install BeautifulSoup4
+```
