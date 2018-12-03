@@ -27,6 +27,12 @@ def timetable_getter(url): # pulls the raw HTML from the specified timetable URL
     mystr = mybytes.decode("utf8")
     return mystr
 
+def weeks_parser(weeks):
+    if len(weeks) == 1:
+        return [int(weeks)]
+    elif weeks == "1-12":
+        return [i for i in range(1,13)] # TODO: finish this
+
 
 def main(): # another testing placeholder for now.
     url_assembler()
