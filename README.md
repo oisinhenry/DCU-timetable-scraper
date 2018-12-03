@@ -1,6 +1,8 @@
 # DCU Timetable Scraper
 
-WIP timetable scraper for DCU. Written in Python 3.
+I go to DCU. The timetables for the courses in DCU aren't very nice looking. The form to request your timetable isn't very nice looking either. The website that the timetables live on also has a tendency to go down for days at a time.
+
+I wanted to resolve some of these issues with a timetable scraper, which I've been writing in Python 3. My hope is to eventually deploy this as a React web app which all students will be able to use to import their timetable to Google Calendar.
 
 
 ## TODO:
