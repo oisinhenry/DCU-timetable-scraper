@@ -20,14 +20,14 @@ WIP timetable scraper for DCU. Written in Python 3.
 * ~~Implement methods to query and print the list(?) of Timeslot objects.~~
 I probably won't do this. The print method is already implemented and querying is fairly redundant.
 
-* Output those objects to CSV!
+* Run a pass over the `weeks` attribute for each Timeslot object and normalize them. e.g. `2-4,6-7` becomes `[2,3,4,6,7]`.
+
+* Output a completed timetable to CSV!
 
 
-## Long term goals:
+## Long term stuff:
 
-* Output to some (standardized) format readable by humans (not just python command line).
-
-* Package as a web app (React?) and implement Google Calendar export functionality.
+* Package as a React web app and implement Google Calendar export functionality.
 
 * My buddy Conor is currently working on the frontend [here](https://github.com/LemonUnderscore/DCU-Timetable-Webapp). Hoping to meet in the middle and end up with some kind of functional product.
 
