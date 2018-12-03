@@ -16,7 +16,17 @@ def cleanup(s):
     s = s.replace("   ", "\n")
     s = s.replace("\n ", "\n")
     s = re.sub(r"\n+", "\n\n", s) # double newline is purely for readability by humans
+    s = re.sub(r"\((.*?)\n", "", s)
     s = re.sub(r"\[(.*?)\n", "", s)
+    s = s.replace("\n\n", "\n")
+
+    # lines = s.split("\n")
+    # lines_new = []
+    # for line in lines:
+    #     if line:
+    #         if line[0].isdigit():
+    #             line = "\n"+line
+    # s = "".join(s)
     return s
 
 # TODO: normalise the newlines between each element (!!!)

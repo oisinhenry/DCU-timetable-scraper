@@ -1,0 +1,241 @@
+
+
+
+START DAYmonday:
+-----------
+Class type: Lec.
+Day: Mon
+Location: GLA.QG15
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 7
+-----
+Class type: Lec.
+Day: Mon
+Location: GLA.HG23
+Module: LOGIC
+Weeks: 1-12
+-----
+Class type: Prac.
+Day: Mon
+Location: GLA.L125,GLA.L101
+Module: LOGIC
+Weeks: 1-12
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+-----
+Class type: Lec.
+Day: Mon
+Location: GLA.QG15
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 5
+None
+None
+None
+None
+-----
+Class type: Lec.
+Day: Mon
+Location: GLA.HG23
+Module: Computer Programming 3 
+Weeks: 1-12
+None
+None
+None
+None
+-----
+Class type: Lec.
+Day: Mon
+Location: GLA.QG13
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 1-4,6-12
+-----
+Class type: Lec.
+Day: Mon
+Location: GLA.HG23
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 2-4,6-12
+None
+None
+
+
+
+START DAYtuesday:
+-----------
+Class type: Prac.
+Day: Tue
+Location: GLA.LG25,GLA.LG26GLA.L125
+Module: Computer Programming 3 
+Weeks: 1-12
+-----
+Class type: Lec.
+Day: Tue
+Location: GLA.SA301
+Module: Systems Analysis
+Weeks: 1-12
+None
+None
+-----
+Class type: Lec.
+Day: Tue
+Location: GLA.CG12
+Module: Intro to Databases
+Weeks: 1-12
+None
+None
+None
+None
+-----
+Class type: Lec.
+Day: Tue
+Location: GLA.CG12
+Module: Roantree M
+Weeks: 1-12
+None
+None
+
+
+
+START DAYwednesday:
+------None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+
+
+START DAYthursday:
+-----------
+Class type: Lec.
+Day: Thu
+Location: GLA.CG12
+Module: Computer Programming 3 
+Weeks: 1-12
+-----
+Class type: Lec.
+Day: Thu
+Location: GLA.CG12
+Module: LOGIC
+Weeks: 1-12
+None
+None
+None
+None
+-----
+Class type: Lec.
+Day: Thu
+Location: GLA.HG23
+Module: Systems Analysis
+Weeks: 1-12
+None
+None
+None
+None
+-----
+Class type: Prac.
+Day: Thu
+Location: GLA.LG25,GLA.LG26GLA.LG27
+Module: Intro to databases
+Weeks: 1-12
+
+
+
+START DAYfriday:
+-----------
+Class type: Lec.
+Day: Fri
+Location: GLA.SA301
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 5
+-----
+Class type: Lec.
+Day: Fri
+Location: GLA.XG19
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 2-6,8-12
+-----
+Class type: Prac.
+Day: Fri
+Location: GLA.L114,GLA.L101
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 8
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+-----
+Class type: Prac.
+Day: Fri
+Location: GLA.LG25,GLA.LG26GLA.LG27
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 6-7,9-12
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+-----
+Class type: Prac.
+Day: Fri
+Location: GLA.L101,GLA.L128
+Module: Computer Architecture & Assembly Level Programming
+Weeks: 2-5
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+

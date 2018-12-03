@@ -1,5 +1,5 @@
 class Timeslot(object):
-    def __init__(self, slot_type, location, module_name, module_code, weeks, day=None, time=None):
+    def __init__(self, slot_type, location, module_name, module_code, weeks, day=None, time=None, duration=0):
 # TIME INITS AS 0 because it's not worried about in our first pass with dtsparser.
 # instead 5 lists of timeslot objects are assembled, one for each day. None type entries
 # represent empty slots. each day is in order by the time they occur.

@@ -7,7 +7,7 @@ def make_lists(data):
 
 def process_day(s, day): # PASS THE DAY NAME SO THE OBJECTS CAN BE ASSIGNED THE DAY JUST IN CASE
     s = s.strip()
-    keys = s.split("\n\n")
+    keys = s.split("\n")
     keys = keys[2:] # discard empty slots at 8:00 and 8:30
     output_list = []
     i = 0
@@ -38,6 +38,17 @@ def process_day(s, day): # PASS THE DAY NAME SO THE OBJECTS CAN BE ASSIGNED THE 
                 i += 6
 
     return output_list
+
+def make_lists_days(l):
+    d = {
+    "monday" : process_day(l[0], "Mon"),
+    "tuesday" : process_day(l[1], "Tue"),
+    "wednesday" : process_day(l[2], "Wed"),
+    "thursday" : process_day(l[3], "Thu"),
+    "friday" : process_day(l[4], "Fri")
+    }
+
+    return d
 
 
 # TODO: account for spaces in module names
