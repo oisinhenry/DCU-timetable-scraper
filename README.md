@@ -9,11 +9,12 @@ I wanted to resolve some of these issues with a timetable scraper, which I've be
 
 * ~~Structure text data parsed from HTML file.~~
 
-* ~~Implement timeslot objects.~~ (this isn't totally finished yet).
+* ~~Implement timeslot objects.~~
 
-* Implement a function to iterate through all the text data and create Timeslot objects. (currently working in the testing environment)
+* ~~Implement a function to iterate through all the text data and create Timeslot objects.~~
 
-* ~~Implement a function to do another pass over the raw HTML and extract the width of each populated column (i.e. the duration of each lecture). Output to some list.~~ This is working at the moment but needs to be called in main and tested some more.
+* ~~Implement a function to do another pass over the raw HTML and extract the width of each populated column (i.e. the duration of each lecture). Output to some list.~~
+This is working at the moment but needs to be called in main and tested some more.
 
 * ~~Add a duration attribute to the Timeslot object~~ and cross reference with aforementioned list. This is very important. Need to write that cross reference function.
 
