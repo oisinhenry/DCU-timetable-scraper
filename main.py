@@ -76,5 +76,32 @@ def print_to_file(s): # this isn't really used except for testing
         print(s, file=text_file)
 
 
+def table_getter(data):
+    soup = BeautifulSoup(data)
+    raw_html = ""
+    for table in soup.find_all("td"):
+        raw_html += str(table)
+
+
+def rowspan_getter(tables):
+    keys = tables.split("td rowspan")
+    keys = keys[1:6]
+    values = []
+    for key in keys:
+        values.append(int(key[2]))
+
+    return values
+
+def colspan_getter(tables):
+    keys = tables.split("colspan")
+    keys = keys[21:]
+    values = []
+    for key in keys:
+        values.append(int(key[2]))
+
+    return values
+
+
+
 if __name__ == '__main__':
     main()
