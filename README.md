@@ -23,6 +23,8 @@ This is working at the moment but needs to be called in main and tested some mor
 * ~~Implement methods to query and print the list(?) of Timeslot objects.~~
 I probably won't do this. The print method is already implemented and querying is fairly redundant.
 
+* **Extract the `rowspan` attributes from all the day headers. This tells us if a day spills over onto the next row and accounting for it is the ONLY WAY our current dictionary format will work.** Column count is always 15, so when lining up slots with times, we need these values to be correct i.e. if Friday takes up 3 rows we can expect 45 slots with a "reset" to 9am every 15 slots. We can go from here to match up Timeslots (and emptySlots) with actual time of day values. 
+
 * Run a pass over the `weeks` attribute for each Timeslot object and normalize them. e.g. `2-4,6-7` becomes `[2,3,4,6,7]`.
 
 * Output a completed timetable to CSV!
