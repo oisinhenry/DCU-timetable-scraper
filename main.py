@@ -54,12 +54,7 @@ def print_from_url(code="CASE", year="2", sem="2"): # url assembler. this will e
     # print(text)
     # print_to_file(text)
     list_day_strings = make_lists(text)
-    # mon = list_day_strings[0]
-    # mon = mon.strip()
-    # print_to_file(mon)
-    # daytest = process_day(mon, "Mon")
-    # for line in daytest:
-    #     print(line)
+
     days = make_lists_days(list_day_strings)
     output_string = ""
     for key in days:
