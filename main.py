@@ -8,7 +8,7 @@ from cleaner import cleanup
 from objects import Timeslot
 from dtsparser import make_lists,process_day,make_lists_days
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning) # filed under "don't do this"
-
+# ubuntu push test
 # this function basically exists for testing purposes right now. whenever we start exporting
 # to standard calendar formats it'll probably be changed to command line params
 def url_assembler():
